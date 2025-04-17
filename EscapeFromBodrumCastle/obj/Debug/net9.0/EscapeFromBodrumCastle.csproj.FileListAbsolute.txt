@@ -1,0 +1,28 @@
+C:\Users\Yunus Emre\Desktop\Yeni klasör\EscapeFromBodrumCastle\bin\Debug\net9.0\EscapeFromBodrumCastle.exe
+C:\Users\Yunus Emre\Desktop\Yeni klasör\EscapeFromBodrumCastle\bin\Debug\net9.0\EscapeFromBodrumCastle.deps.json
+C:\Users\Yunus Emre\Desktop\Yeni klasör\EscapeFromBodrumCastle\bin\Debug\net9.0\EscapeFromBodrumCastle.runtimeconfig.json
+C:\Users\Yunus Emre\Desktop\Yeni klasör\EscapeFromBodrumCastle\bin\Debug\net9.0\EscapeFromBodrumCastle.dll
+C:\Users\Yunus Emre\Desktop\Yeni klasör\EscapeFromBodrumCastle\bin\Debug\net9.0\EscapeFromBodrumCastle.pdb
+C:\Users\Yunus Emre\Desktop\Yeni klasör\EscapeFromBodrumCastle\obj\Debug\net9.0\EscapeFromBodrumCastle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yunus Emre\Desktop\Yeni klasör\EscapeFromBodrumCastle\obj\Debug\net9.0\EscapeFromBodrumCastle.AssemblyInfoInputs.cache
+C:\Users\Yunus Emre\Desktop\Yeni klasör\EscapeFromBodrumCastle\obj\Debug\net9.0\EscapeFromBodrumCastle.AssemblyInfo.cs
+C:\Users\Yunus Emre\Desktop\Yeni klasör\EscapeFromBodrumCastle\obj\Debug\net9.0\EscapeFromBodrumCastle.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Emre\Desktop\Yeni klasör\EscapeFromBodrumCastle\obj\Debug\net9.0\EscapeFromBodrumCastle.dll
+C:\Users\Yunus Emre\Desktop\Yeni klasör\EscapeFromBodrumCastle\obj\Debug\net9.0\refint\EscapeFromBodrumCastle.dll
+C:\Users\Yunus Emre\Desktop\Yeni klasör\EscapeFromBodrumCastle\obj\Debug\net9.0\EscapeFromBodrumCastle.pdb
+C:\Users\Yunus Emre\Desktop\Yeni klasör\EscapeFromBodrumCastle\obj\Debug\net9.0\EscapeFromBodrumCastle.genruntimeconfig.cache
+C:\Users\Yunus Emre\Desktop\Yeni klasör\EscapeFromBodrumCastle\obj\Debug\net9.0\ref\EscapeFromBodrumCastle.dll
+C:\Users\Yunus Emre\Desktop\Üniversite\I-sınıf\bahar\Object Oriented Programming\Yeni klasör\EscapeFromBodrumCastle\bin\Debug\net9.0\EscapeFromBodrumCastle.exe
+C:\Users\Yunus Emre\Desktop\Üniversite\I-sınıf\bahar\Object Oriented Programming\Yeni klasör\EscapeFromBodrumCastle\bin\Debug\net9.0\EscapeFromBodrumCastle.deps.json
+C:\Users\Yunus Emre\Desktop\Üniversite\I-sınıf\bahar\Object Oriented Programming\Yeni klasör\EscapeFromBodrumCastle\bin\Debug\net9.0\EscapeFromBodrumCastle.runtimeconfig.json
+C:\Users\Yunus Emre\Desktop\Üniversite\I-sınıf\bahar\Object Oriented Programming\Yeni klasör\EscapeFromBodrumCastle\bin\Debug\net9.0\EscapeFromBodrumCastle.dll
+C:\Users\Yunus Emre\Desktop\Üniversite\I-sınıf\bahar\Object Oriented Programming\Yeni klasör\EscapeFromBodrumCastle\bin\Debug\net9.0\EscapeFromBodrumCastle.pdb
+C:\Users\Yunus Emre\Desktop\Üniversite\I-sınıf\bahar\Object Oriented Programming\Yeni klasör\EscapeFromBodrumCastle\obj\Debug\net9.0\EscapeFromBodrumCastle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yunus Emre\Desktop\Üniversite\I-sınıf\bahar\Object Oriented Programming\Yeni klasör\EscapeFromBodrumCastle\obj\Debug\net9.0\EscapeFromBodrumCastle.AssemblyInfoInputs.cache
+C:\Users\Yunus Emre\Desktop\Üniversite\I-sınıf\bahar\Object Oriented Programming\Yeni klasör\EscapeFromBodrumCastle\obj\Debug\net9.0\EscapeFromBodrumCastle.AssemblyInfo.cs
+C:\Users\Yunus Emre\Desktop\Üniversite\I-sınıf\bahar\Object Oriented Programming\Yeni klasör\EscapeFromBodrumCastle\obj\Debug\net9.0\EscapeFromBodrumCastle.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Emre\Desktop\Üniversite\I-sınıf\bahar\Object Oriented Programming\Yeni klasör\EscapeFromBodrumCastle\obj\Debug\net9.0\EscapeFromBodrumCastle.dll
+C:\Users\Yunus Emre\Desktop\Üniversite\I-sınıf\bahar\Object Oriented Programming\Yeni klasör\EscapeFromBodrumCastle\obj\Debug\net9.0\refint\EscapeFromBodrumCastle.dll
+C:\Users\Yunus Emre\Desktop\Üniversite\I-sınıf\bahar\Object Oriented Programming\Yeni klasör\EscapeFromBodrumCastle\obj\Debug\net9.0\EscapeFromBodrumCastle.pdb
+C:\Users\Yunus Emre\Desktop\Üniversite\I-sınıf\bahar\Object Oriented Programming\Yeni klasör\EscapeFromBodrumCastle\obj\Debug\net9.0\EscapeFromBodrumCastle.genruntimeconfig.cache
+C:\Users\Yunus Emre\Desktop\Üniversite\I-sınıf\bahar\Object Oriented Programming\Yeni klasör\EscapeFromBodrumCastle\obj\Debug\net9.0\ref\EscapeFromBodrumCastle.dll
